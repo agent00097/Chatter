@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'redis', '~> 3.2'
 gem 'devise'
 gem 'bootstrap', '~> 4.0.0.alpha3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
